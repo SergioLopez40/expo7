@@ -16,3 +16,17 @@ http://www.youtube.com/user/c9ide.
 
 Happy coding!
 The Cloud9 IDE team
+
+# Expo7
+## Aqui tenemos el proyecto creado hace 22 dias aproximadamente durante la exposicion numero 7 con tema de rails testing
+
+![Screenshot](expo7.png)
+
+### carpeta prueba
+![Screenshot](expo7_1.png)
+
+### carpeta testing
+![Screenshot](expo7_2.png)
+
+### carpeta testing_basics
+![Screenshot](expo7_3.png)
